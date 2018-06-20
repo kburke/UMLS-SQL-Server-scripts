@@ -1,2 +1,2 @@
 # UMLS-SQL-Server-scripts
-SQL Server scripts for installation and us of UMLS
+SQL Server scripts for installation and use of UMLS
